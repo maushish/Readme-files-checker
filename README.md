@@ -17,8 +17,7 @@ The aim of our project is to centralized the idea of donating to different NGO's
  * To evaluate the usability, satisfaction, adoption rate, effectiveness, efficiency ,and impact of the centralized platform on NGO work.
 ## ⚙️Tech Stack
 
-### Front-end
-*   For developing this website we can use the MERN stack as our tech stack.The MERN stack is a JavaScript-based web development framework that stands for MongoDB, Express.js, React.js, and Node.js. These are the four key technologies that make up the MERN stack.
+*   For developing this website we can use the MERN stack as our tech stack.The MERN stack is a JavaScript-based web development framework that stands for ***MongoDB***, ***Express.js***, ***React.js***, and ***Node.js***. These are the four key technologies that make up the MERN stack.
 Using the MERN stack, we can develop a NGO centralized website that has the following features:
 
  * A responsive and user-friendly front-end that displays information about NGOs, their projects, their achievements, their needs, and their donors using React.js components.
